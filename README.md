@@ -15,7 +15,7 @@ This is a simple digital thermometer with an DS1621 Digital Sensor , measuring t
 
 <p align="center">
 <a href="./LICENSE.md">
-<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Thermometer.2 ?style=badge">
+<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Thermometer.2?style=badge">
 </a>
 <a href="https://www.mcselec.com/">
 <img alt="BASCOM_AVR" src="https://img.shields.io/badge/BASCOM_AVR-2.0.8.5-badcff.svg">
